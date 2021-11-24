@@ -1,0 +1,7 @@
+name: SimpleRTP
+author: Purple
+version: 0.1
+main: fr.purple.rtp.RTPPlugin
+commands:
+  rtp:
+    permission: 'rtp.use'
