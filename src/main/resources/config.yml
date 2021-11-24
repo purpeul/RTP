@@ -1,4 +1,0 @@
-rtp-message: '&cVous avez été téléporté !'
-min: 300
-max: 500
-negative: true
